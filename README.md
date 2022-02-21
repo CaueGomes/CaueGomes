@@ -1,8 +1,8 @@
-### Olá! Eu sou o Cauê Victor Gomes, estudante de programação e tecnologia! 👋
+### Hi, I'm Cauê Victor Gomes, a student of programming and technology! 👋
 
-- ⚡ Atualmente trabalho como estagiário em desenvolvimento Delphi.
-- ⚡ Formado em C# pelo projeto Entra21 na edição de 2020.
-- ⚡ Procurando por novas oportunidades na área de tecnologia.
+- ⚡ I am currently working as a trainee in Delphi development.
+- ⚡ Trained in C# by the Entra21 project in the 2020 edition.
+- ⚡ always looking for new opportunities!.
 
 <div align="center">
   <a href="https://github.com/CaueGomes">
