@@ -2,7 +2,7 @@
 
 - ⚡ I am currently working as a trainee in Delphi development.
 - ⚡ Trained in C# by the Entra21 project in the 2020 edition.
-- ⚡ always looking for new opportunities!.
+- ⚡ always looking for new opportunities!
 
 <div align="center">
   <a href="https://github.com/CaueGomes">
